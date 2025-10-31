@@ -3,11 +3,12 @@
 TARGET=input
 SOURCE=reads
 IFS=$'\n'
+mkdir -p $TARGET
 echo "sample,fastq_1,fastq_2,strandedness,devstage" > samplesheet.csv
 for a in $(find $SOURCE -type f -name "*.fastq.gz"); do
     b=$(basename $a)
     c=$(echo "$b" | perl -p -e 's/Copy of Kasson-McKeon_//;')
-    echo ln -s "../${a}" $TARGET/$c
+    ln -s "../${a}" $TARGET/$c
     if [[ $c == *_R1_*.fastq.gz ]]; then
         R1=$c
         sampid=$(basename $c _L001_R1_001.fastq.gz)

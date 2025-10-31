@@ -82,7 +82,7 @@ Example usage:
     df = df.reindex(sorted(df.columns), axis=1)
     
     # Display the table
-    print("\nRead Statistics Summary")
+    print("\nRead Statistics Summary (Counts)")
     print("=" * 80)
     print(df.to_string())
     
@@ -95,6 +95,31 @@ Example usage:
     output_tsv = os.path.join(stats_dir, 'summary_table.tsv')
     df.to_csv(output_tsv, sep='\t')
     print(f"Table saved to: {output_tsv}")
+    
+    # Calculate percentage table
+    # Calculate row sums (total reads per sample)
+    row_totals = df.sum(axis=1)
+    
+    # Calculate percentages (divide each value by row total and multiply by 100)
+    df_percent = df.div(row_totals, axis=0) * 100
+    
+    # Round to 2 decimal places
+    df_percent = df_percent.round(2)
+    
+    # Display the percentage table
+    print("\n\nRead Statistics Summary (Percentages)")
+    print("=" * 80)
+    print(df_percent.to_string())
+    
+    # Save percentage table to CSV
+    output_percent_file = os.path.join(stats_dir, 'summary_percent_table.csv')
+    df_percent.to_csv(output_percent_file)
+    print(f"\n\nPercentage table saved to: {output_percent_file}")
+    
+    # Also save as tab-separated
+    output_percent_tsv = os.path.join(stats_dir, 'summary_percent_table.tsv')
+    df_percent.to_csv(output_percent_tsv, sep='\t')
+    print(f"Percentage table saved to: {output_percent_tsv}")
     
     return 0
 
