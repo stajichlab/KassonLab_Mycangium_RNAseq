@@ -1,0 +1,70 @@
+ 99.98	7661826	7661826	0	0	U	0	unclassified
+  0.02	1584	0	9754	312	R	1	root
+  0.02	1584	0	9754	312	D	10239	  Viruses
+  0.02	1552	0	3772	118	D1	2559587	    Riboviria
+  0.02	1545	0	3630	69	K	2732396	      Orthornavirae
+  0.02	1522	0	3391	9	P	2732408	        Pisuviricota
+  0.02	1522	0	3391	9	C	2732506	          Pisoniviricetes
+  0.02	1522	0	3385	7	O	464095	            Picornavirales
+  0.02	1522	3	3381	4	F	699189	              Iflaviridae
+  0.02	1519	0	1781	2	F1	1111709	                unclassified Iflaviridae
+  0.02	1519	1519	1781	2	S	1911104	                  King virus
+  0.00	22	0	173	42	P	2732407	        Lenarviricota
+  0.00	22	0	169	40	C	2842243	          Leviviricetes
+  0.00	22	0	166	39	O	2842249	            Timlovirales
+  0.00	22	0	165	38	F	2842332	              Steitzviridae
+  0.00	20	0	134	12	G	2842802	                Kinglevirus
+  0.00	20	0	134	12	S	2845070	                  Kinglevirus lutadaptatum
+  0.00	20	20	134	12	S1	2786389	                    ssRNA phage SRR5466337_3
+  0.00	2	0	30	25	G	2842702	                Gihfavirus
+  0.00	2	0	30	25	S	2844652	                  Gihfavirus pelohabitans
+  0.00	2	2	30	25	S1	2786405	                    ssRNA phage SRR5466369_2
+  0.00	1	0	60	13	P	2497569	        Negarnaviricota
+  0.00	1	0	55	9	P1	2497571	          Polyploviricotina
+  0.00	1	0	55	9	C	2497576	            Ellioviricetes
+  0.00	1	0	55	9	O	1980410	              Bunyavirales
+  0.00	1	0	3	3	F	1980416	                Peribunyaviridae
+  0.00	1	0	3	3	G	11572	                  Orthobunyavirus
+  0.00	1	1	3	3	S	35306	                    Simbu orthobunyavirus
+  0.00	6	0	57	45	K	2732397	      Pararnavirae
+  0.00	6	0	57	45	P	2732409	        Artverviricota
+  0.00	6	0	57	45	C	2732514	          Revtraviricetes
+  0.00	6	0	57	45	O	2169561	            Ortervirales
+  0.00	6	0	57	45	F	11632	              Retroviridae
+  0.00	6	0	57	45	F1	35276	                unclassified Retroviridae
+  0.00	6	0	57	45	F2	206037	                  Human endogenous retroviruses
+  0.00	6	0	57	45	S	45617	                    Human endogenous retrovirus K
+  0.00	6	6	57	45	S1	166122	                      Human endogenous retrovirus K113
+  0.00	1	0	85	4	D2	2585030	      unclassified Riboviria
+  0.00	1	0	84	3	D3	1922348	        unclassified RNA viruses ShiM-2016
+  0.00	1	1	2	1	S	1923106	          Hubei picorna-like virus 26
+  0.00	17	0	5695	111	D1	2731341	    Duplodnaviria
+  0.00	17	0	5695	111	K	2731360	      Heunggongvirae
+  0.00	17	0	5673	104	P	2731618	        Uroviricota
+  0.00	17	0	5673	104	C	2731619	          Caudoviricetes
+  0.00	14	0	4297	5	F	2946170	            Straboviridae
+  0.00	14	0	4287	1	F1	1198136	              Tevenvirinae
+  0.00	14	0	4287	1	G	10663	                Tequatrovirus
+  0.00	14	0	4287	1	S	2844208	                  Tequatrovirus kaw
+  0.00	14	14	4287	1	S1	2508180	                    Escherichia phage vB_EcoM_KAW1E185
+  0.00	2	0	2	1	C1	2946648	            Weiservirinae
+  0.00	2	2	2	1	G	2946797	              Anayavirus
+  0.00	1	0	68	24	C1	2788787	            unclassified Caudoviricetes
+  0.00	1	1	2	2	S	2686235	              Mycobacterium phage Onyinye
+  0.00	8	0	32	14	F	2946196	    Polydnaviriformidae
+  0.00	8	0	32	14	G	2946836	      Bracoviriform
+  0.00	7	7	22	10	S	2083300	        Bracoviriform facetosae
+  0.00	1	1	2	2	S	39640	        Bracoviriform congregatae
+  0.00	7	0	193	49	D1	2732004	    Varidnaviria
+  0.00	7	0	193	49	K	2732005	      Bamfordvirae
+  0.00	7	0	189	46	P	2732007	        Nucleocytoviricota
+  0.00	6	0	126	22	C	2732525	          Pokkesviricetes
+  0.00	6	0	68	20	O	2732527	            Chitovirales
+  0.00	6	0	68	20	F	10240	              Poxviridae
+  0.00	6	0	58	18	F1	10241	                Chordopoxvirinae
+  0.00	6	0	29	13	G	2733297	                  Oryzopoxvirus
+  0.00	6	0	26	12	G1	2788403	                    unclassified Oryzopoxvirus
+  0.00	6	6	26	12	S	67082	                      BeAn 58058 virus
+  0.00	1	0	63	24	C	2732523	          Megaviricetes
+  0.00	1	0	28	13	O	2732554	            Imitervirales
+  0.00	1	1	28	13	F	549779	              Mimiviridae

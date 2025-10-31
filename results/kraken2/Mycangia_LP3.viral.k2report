@@ -1,0 +1,24 @@
+ 99.96	4510947	4510947	0	0	U	0	unclassified
+  0.04	1763	0	5426	168	R	1	root
+  0.04	1763	0	5426	168	D	10239	  Viruses
+  0.04	1754	0	3936	20	D1	2559587	    Riboviria
+  0.04	1754	0	3863	14	K	2732396	      Orthornavirae
+  0.04	1754	0	3810	4	P	2732408	        Pisuviricota
+  0.04	1754	0	3810	4	C	2732506	          Pisoniviricetes
+  0.04	1754	0	3808	3	O	464095	            Picornavirales
+  0.04	1754	2	3808	3	F	699189	              Iflaviridae
+  0.04	1752	0	1970	2	F1	1111709	                unclassified Iflaviridae
+  0.04	1752	1752	1970	2	S	1911104	                  King virus
+  0.00	7	0	39	16	F	2946196	    Polydnaviriformidae
+  0.00	7	2	39	16	G	2946836	      Bracoviriform
+  0.00	3	3	21	10	S	2083300	        Bracoviriform facetosae
+  0.00	2	2	6	3	S	39640	        Bracoviriform congregatae
+  0.00	2	0	385	30	D1	2732004	    Varidnaviria
+  0.00	2	0	385	30	K	2732005	      Bamfordvirae
+  0.00	2	0	382	28	P	2732007	        Nucleocytoviricota
+  0.00	2	0	117	7	C	2732525	          Pokkesviricetes
+  0.00	2	0	80	6	O	2732527	            Chitovirales
+  0.00	2	0	80	6	F	10240	              Poxviridae
+  0.00	2	0	74	4	F1	10241	                Chordopoxvirinae
+  0.00	2	0	18	1	G	10242	                  Orthopoxvirus
+  0.00	2	2	18	1	S	160796	                    Skunkpox virus

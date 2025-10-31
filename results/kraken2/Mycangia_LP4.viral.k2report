@@ -1,0 +1,43 @@
+ 99.94	6555554	6555554	0	0	U	0	unclassified
+  0.06	4226	0	11469	282	R	1	root
+  0.06	4226	0	11469	282	D	10239	  Viruses
+  0.03	2177	0	5003	126	D1	2731341	    Duplodnaviria
+  0.03	2177	0	5003	126	K	2731360	      Heunggongvirae
+  0.03	2177	0	4982	116	P	2731618	        Uroviricota
+  0.03	2177	2171	4982	116	C	2731619	          Caudoviricetes
+  0.00	4	0	12	2	C1	1982875	            Arquatrovirinae
+  0.00	4	0	12	2	G	2948847	              Omarvirus
+  0.00	4	0	12	2	S	2956237	                Omarvirus omar
+  0.00	4	4	12	2	S1	2059882	                  Streptomyces phage Omar
+  0.00	2	1	24	24	F	2946167	            Peduoviridae
+  0.00	1	0	14	14	G	2948951	              Wadgaonvirus
+  0.00	1	0	14	14	S	2956672	                Wadgaonvirus wv5004651
+  0.00	1	1	14	14	S1	2716351	                  Escherichia phage 500465-1
+  0.03	2044	0	6095	107	D1	2559587	    Riboviria
+  0.03	2044	0	6020	101	K	2732396	      Orthornavirae
+  0.03	1899	0	4209	7	P	2732408	        Pisuviricota
+  0.03	1899	0	4206	5	C	2732506	          Pisoniviricetes
+  0.03	1899	0	4202	4	O	464095	            Picornavirales
+  0.03	1899	5	4202	4	F	699189	              Iflaviridae
+  0.03	1894	0	2205	2	F1	1111709	                unclassified Iflaviridae
+  0.03	1894	1894	2205	2	S	1911104	                  King virus
+  0.00	145	0	1765	82	P	2732407	        Lenarviricota
+  0.00	144	0	1761	78	C	2842243	          Leviviricetes
+  0.00	144	0	1756	76	O	2842249	            Timlovirales
+  0.00	144	0	1756	76	F	2842332	              Steitzviridae
+  0.00	79	0	881	28	G	2842802	                Kinglevirus
+  0.00	79	0	881	28	S	2845070	                  Kinglevirus lutadaptatum
+  0.00	79	79	881	28	S1	2786389	                    ssRNA phage SRR5466337_3
+  0.00	65	0	868	47	G	2842702	                Gihfavirus
+  0.00	65	0	868	47	S	2844652	                  Gihfavirus pelohabitans
+  0.00	65	65	868	47	S1	2786405	                    ssRNA phage SRR5466369_2
+  0.00	1	0	4	4	C	2732499	          Howeltoviricetes
+  0.00	1	0	4	4	O	2732503	            Cryppavirales
+  0.00	1	0	4	4	F	2732892	              Mitoviridae
+  0.00	1	0	4	4	G	2948686	                Duamitovirus
+  0.00	1	0	4	4	S	2955793	                  Duamitovirus opno1a
+  0.00	1	1	4	4	S1	348094	                    Ophiostoma mitovirus 1a
+  0.00	5	0	15	7	F	2946196	    Polydnaviriformidae
+  0.00	5	0	15	7	G	2946836	      Bracoviriform
+  0.00	3	3	8	2	S	39640	        Bracoviriform congregatae
+  0.00	2	2	5	3	S	2083300	        Bracoviriform facetosae

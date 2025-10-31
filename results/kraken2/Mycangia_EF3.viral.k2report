@@ -1,0 +1,30 @@
+ 99.98	6819069	6819069	0	0	U	0	unclassified
+  0.02	1363	0	6090	196	R	1	root
+  0.02	1363	0	6090	196	D	10239	  Viruses
+  0.02	1348	0	3136	22	D1	2559587	    Riboviria
+  0.02	1348	0	3070	19	K	2732396	      Orthornavirae
+  0.02	1347	0	2971	6	P	2732408	        Pisuviricota
+  0.02	1347	0	2969	4	C	2732506	          Pisoniviricetes
+  0.02	1347	0	2969	4	O	464095	            Picornavirales
+  0.02	1347	2	2968	3	F	699189	              Iflaviridae
+  0.02	1345	0	1568	2	F1	1111709	                unclassified Iflaviridae
+  0.02	1345	1345	1568	2	S	1911104	                  King virus
+  0.00	1	0	94	8	P	2497569	        Negarnaviricota
+  0.00	1	0	93	7	P1	2497571	          Polyploviricotina
+  0.00	1	0	93	7	C	2497576	            Ellioviricetes
+  0.00	1	0	93	7	O	1980410	              Bunyavirales
+  0.00	1	0	2	2	F	1980416	                Peribunyaviridae
+  0.00	1	0	2	2	G	11572	                  Orthobunyavirus
+  0.00	1	0	2	2	S	2560743	                    Schmallenberg orthobunyavirus
+  0.00	1	1	2	2	S1	159150	                      Shamonda orthobunyavirus
+  0.00	12	0	58	21	F	2946196	    Polydnaviriformidae
+  0.00	12	1	58	21	G	2946836	      Bracoviriform
+  0.00	11	11	34	17	S	2083300	        Bracoviriform facetosae
+  0.00	3	0	47	6	C	2840056	    Naldaviricetes
+  0.00	3	0	47	6	O	2840070	      Lefavirales
+  0.00	3	0	46	5	F	10442	        Baculoviridae
+  0.00	2	0	5	2	G	558017	          Betabaculovirus
+  0.00	2	2	5	2	S	56947	            Choristoneura fumiferana granulovirus
+  0.00	1	0	41	3	G	558016	          Alphabaculovirus
+  0.00	1	0	1	1	S	3048188	            Alphabaculovirus lydisparis
+  0.00	1	1	1	1	S1	10449	              Lymantria dispar multiple nucleopolyhedrovirus
