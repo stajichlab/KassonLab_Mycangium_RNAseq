@@ -3,7 +3,6 @@ Mycangia_EF1,input/Mycangia_EF1_S20_L001_R1_001.fastq.gz,input/Mycangia_EF1_S20_
 Mycangia_EF3,input/Mycangia_EF3_S22_L001_R1_001.fastq.gz,input/Mycangia_EF3_S22_L001_R2_001.fastq.gz,auto,EF3
 Mycangia_EF2,input/Mycangia_EF2_S21_L001_R1_001.fastq.gz,input/Mycangia_EF2_S21_L001_R2_001.fastq.gz,auto,EF2
 Mycangia_EF4,input/Mycangia_EF4_S23_L001_R1_001.fastq.gz,input/Mycangia_EF4_S23_L001_R2_001.fastq.gz,auto,EF4
-Mycangia_LP1,input/Mycangia_LP1_S12_L001_R1_001.fastq.gz,input/Mycangia_LP1_S12_L001_R2_001.fastq.gz,auto,LP1
 Mycangia_LP4,input/Mycangia_LP4_S15_L001_R1_001.fastq.gz,input/Mycangia_LP4_S15_L001_R2_001.fastq.gz,auto,LP4
 Mycangia_LP3,input/Mycangia_LP3_S14_L001_R1_001.fastq.gz,input/Mycangia_LP3_S14_L001_R2_001.fastq.gz,auto,LP3
 Mycangia_LP2,input/Mycangia_LP2_S13_L001_R1_001.fastq.gz,input/Mycangia_LP2_S13_L001_R2_001.fastq.gz,auto,LP2

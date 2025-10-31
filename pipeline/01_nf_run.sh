@@ -3,17 +3,17 @@
 
 module load singularity
 GENOME=genome/Fusarium_oligoseptatum_NRRL_62579.fasta
+GTF=genome/Fusarium_oligoseptatum_NRRL_62579.fixed.gtf
 GFF=genome/Fusarium_oligoseptatum_NRRL_62579.gff
 mkdir -p results
-nextflow run nf-core/rnaseq \
+nextflow run nf-core/rnaseq -resume -c ucr_hpcc.config -profile singularity \
     --input samplesheet.csv \
+    --bbsplit_fasta_list bb_split_list.txt \
+    --skip_bbsplit false \
     --outdir results/nf_rnaseq \
-    --gff $GFF \
+    --gtf $GTF \
     --fasta $GENOME \
-    -profile singularity \
-    --star_rsem --bam_csi_index --save_unaligned \
-    -resume -c ucr_hpcc.config
-
-#--gtf genome/GCA_022478985.1_UCR_MCPNR19_1.0_genomic.gtf \
-
+    --star_rsem --save_unaligned \
+    --minAssignedFrags 1 \
+    --skip_pseudo_alignment
 

@@ -1,0 +1,25 @@
+A	C	G	T	N	IUPAC	Other	GC	GC_stdev
+0.3230	0.1763	0.1746	0.3261	0.0046	0.0000	0.0000	0.3510	0.0850
+
+Main genome scaffold total:         	4512710
+Main genome contig total:           	4455887
+Main genome scaffold sequence total:	446.493 MB
+Main genome contig sequence total:  	444.435 MB  	0.461% gap
+Main genome scaffold N/L50:         	3185578/101
+Main genome contig N/L50:           	3134671/101
+Main genome scaffold N/L90:         	4073266/99
+Main genome contig N/L90:           	4069322/99
+Max scaffold length:                	101
+Max contig length:                  	101
+Number of scaffolds > 50 KB:        	0
+% main genome in scaffolds > 50 KB: 	0.00%
+
+
+Minimum 	Number        	Number        	Total         	Total         	Scaffold
+Scaffold	of            	of            	Scaffold      	Contig        	Contig  
+Length  	Scaffolds     	Contigs       	Length        	Length        	Coverage
+--------	--------------	--------------	--------------	--------------	--------
+    All 	     4,512,710	     4,455,887	   446,493,031	   444,434,480	  99.54%
+     50 	     4,454,913	     4,398,090	   444,461,747	   444,392,684	  99.98%
+    100 	     3,820,311	     3,763,488	   385,216,678	   385,155,640	  99.98%
+
