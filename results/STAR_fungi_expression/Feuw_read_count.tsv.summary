@@ -1,0 +1,15 @@
+Status	results/STAR_fungi/Feuw_Mycangia_BH1Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_BH2Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_BH3Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_BH4Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_BH5Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EF1Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EF2Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EF3Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EF4Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EP1Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EP2Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EP3Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_EP4Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_LP2Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_LP3Aligned.out.bam	results/STAR_fungi/Feuw_Mycangia_LP4Aligned.out.bam
+Assigned	156079	397749	201282	149567	166199	8361	1843	7338	1598	1899	4357	7516	993	143	38	26228
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	70410	158666	113615	145541	176687	3806	1677	3112	13943	1522	6291	6370	1267	295	219	8348
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	310	776	398	388	414	17	9	23	3	5	22	47	1	1	0	142
