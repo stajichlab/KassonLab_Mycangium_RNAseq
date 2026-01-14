@@ -3,4 +3,4 @@
 
 module load BBMap
 mkdir -p results/stats
-parallel -j 16 stats.sh in={} out=results/stats/{/.}.stats.txt  ::: $(ls results/bbpslit/*.gz)
+parallel -j 16 stats.sh in={} out=results/stats/{/.}.stats.txt  ::: $(ls results/bbsplit/*.gz)

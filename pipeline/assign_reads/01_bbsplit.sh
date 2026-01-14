@@ -4,7 +4,6 @@
 CPU=$SLURM_CPUS_ON_NODE
 module load BBMap
 mkdir -p split
-#bbsplit.sh build=1 ref_Efor=beetle/GCF_040115645.1_ASM4011564v1_genomic.fna ref_Esim=beetle/GCF_039881205.1_ESF131.1_genomic.fna ref_Feuw=alt_fungi/GCA_002168265.2_ASM216826v2_genomic.fna ref_Rdelt=alt_fungi/GCA_019925385.1_ASM1992538v1_genomic.fna ref_Ralb=alt_fungi/GCA_002778245.1_ASM277824v1_genomic.fna ref_Rarx=alt_fungi/GCA_002778165.1_ASM277816v1_genomic.fna
 N=1
 if [ ! -z $SLURM_ARRAY_TASK_ID ]; then
 	N=$SLURM_ARRAY_TASK_ID
@@ -13,7 +12,7 @@ elif [ ! -z $1 ]; then
 fi
 
 DB=db
-OUT=results/bbpslit
+OUT=results/bbsplit
 mkdir -p $DB $OUT
 # beetles
 ln -s $(realpath beetle/GCF_039881205.1_ESF131.1_genomic.fna) $DB/Esim.fa

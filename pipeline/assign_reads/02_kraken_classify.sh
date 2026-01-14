@@ -11,7 +11,8 @@ fi
 module load kraken2
 
 OUT=results/kraken2
-IN=results/bbpslit
+IN=results/bbsplit
+
 mkdir -p $OUT
 
 DBFOLDER=/srv/projects/db/kraken2
